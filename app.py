@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 import openai
 
 openai.organization = "org-ZZktHVKSCpm93CmQw4hujuc1"
-openai.api_key = "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"
+openai.api_key = "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"
 st.markdown("# Main page")
 st.sidebar.markdown(" :)( ")
 
