@@ -2,9 +2,10 @@ import streamlit as st
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
+import openai
 
-
-
+openai.organization = "org-ZZktHVKSCpm93CmQw4hujuc1"
+openai.api_key = "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"
 st.markdown("# Main page")
 st.sidebar.markdown(" :)( ")
 
